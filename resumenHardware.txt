@@ -1,0 +1,3 @@
+// Declaración de variables
+var miVariable = "Hola, mundo!"; 
+Tres memorias principales: ROM, RAM y Caché 

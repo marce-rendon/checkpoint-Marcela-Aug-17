@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    1 ejemplo de Software: Visual Studio Code (VS Code) 
+    2 ejemplo de Software: Toda la suite de Microsoft Office (word, PowerPoint, Excel, etc.)
+    3 ejemplo de Software: Microsoft OneNote para editar texto 
+</body>
+</html>

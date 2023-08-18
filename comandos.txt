@@ -1,0 +1,481 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  brew
+    3  /opt/homebrew/bin/brew
+    4  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/marce/.profile
+    5   eval "$(/opt/homebrew/bin/brew shellenv)"
+    6  brew help
+    7  brew help
+    8  brew install git
+    9  git
+   10  fdsfsdfs
+   11  git
+   12  ls
+   13  pwd
+   14  ls -a
+   15  ls -r
+   16  ls
+   17  cd ..
+   18  pwd
+   19  ls
+   20  cd marce
+   21  ls
+   22  pws
+   23  pwd
+   24  ls
+   25  cd Downloads/
+   26  ls
+   27  pwd
+   28  cd /Users/
+   29  ls
+   30  cd /User/marce
+   31  ls
+   32  cd marce
+   33  ls
+   34  cd Downloads/
+   35  ls
+   36  tyba.jpg
+   37  code tyba.jpg
+   38  code
+   39  brew
+   40  clear
+   41  pwd
+   42  ls
+   43  cd
+   44  cd desktop
+   45  pdw
+   46  pwd
+   47  mkdir
+   48  mkdir informes
+   49  ls
+   50  ls
+   51  ls
+   52  ls -t
+   53  cd informes
+   54  touch informeAnual.xls
+   55  list
+   56  ls
+   57  cl
+   58  clear
+   59  cd ..
+   60  pwd
+   61  git
+   62  mkdir DH
+   63  PDW
+   64  PDW
+   65  CD.. 
+   66  CD ..
+   67  PDW
+   68  clear
+   69  lS
+   70  CD DH
+   71  mkdir repaso_clase_1y2
+   72  ls
+   73  mv repaso_clase_1y2 DH
+   74  ls
+   75  CD DH/repaso_clase_1y2
+   76  mkdir historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+   77  rm historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+   78  rmdir historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+   79  cd dh/
+   80  cd DH/
+   81  cd DH/repaso_clase_1y2
+   82  cd DH/repaso_clase_1y2/
+   83  clear
+   84  ls
+   85  pdw
+   86  clear
+   87  pwd
+   88  pwd
+   89  clear
+   90  mkdir dh
+   91  clear
+   92  pwd
+   93  ls
+   94  cd Practica_clase_1y2/
+   95  l
+   96  ls
+   97  cd dh
+   98  ls
+   99  cd repaso_clase_1y2/
+  100  ls
+  101  cd historia_de_la_contabilidad/
+  102  cd 
+  103  pwd
+  104  ls
+  105  pwd
+  106  clear
+  107  cd Practica_clase_1y2/
+  108  mkdir dh
+  109  cd dh
+  110  mkdir repaso_clase_1y2
+  111  cd repaso_clase_1y2/
+  112  mkdir historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+  113  cd historia_de_la_contabilidad/
+  114  touch repaso.jpg
+  115  cd servidores
+  116  ls
+  117  cd
+  118  pdw
+  119  pwd
+  120  pwd
+  121  ls
+  122  cd..
+  123  cd ..
+  124  cd servidores/
+  125  touch repaso.txt
+  126  cd ..
+  127  cd interfaces_de_usuario/
+  128  touch repaso.html
+  129  cd ..
+  130  cd que_haremos_hoy/
+  131  touch repaso.css
+  132  cd ..
+  133  cd infraestructura/
+  134  touch repaso.js
+  135  ls -R
+  136  cd ..
+  137  cd ..
+  138  ls -R
+  139  cd .. 
+  140  ls
+  141  cd dh
+  142  ls
+  143  cd repaso_clase_1y2/
+  144  ls
+  145  mv historia_de_la_contabilidad/ historia_de_la_informatica
+  146  mv que_haremos_hoy/ software_y_hardware
+  147  mv infraestructura/ git_bash_y_vscode
+  148  pwd
+  149  ñs
+  150  ls
+  151  cd Desktop/
+  152  clear
+  153  mkdir informes
+  154  cd informes
+  155  touch informeAnual.xls
+  156  ls
+  157  mkdir auditoria
+  158  touch auditoria.xls
+  159  touch reporteConsolidado.xls
+  160  ls
+  161  pdw
+  162  mv auditoria.xls auditoria
+  163  cd
+  164  pwd
+  165  ls
+  166  cd Desktop/
+  167  cd informes/
+  168  ls
+  169  clear
+  170  cd auditoria
+  171  ls
+  172  MacBook-Pro:informes marce$ cd auditoria
+  173  MacBook-Pro:auditoria marce$ ls
+  174  auditoria.xls
+  175  MacBook-Pro:auditoria marce$ clear
+  176  clear
+  177  clear
+  178  pwd
+  179  clear
+  180  pdw
+  181  clear
+  182  clear
+  183  pws
+  184  clear
+  185  pwd
+  186  clear
+  187  git -v
+  188  git--version
+  189  git-version
+  190  git --version
+  191  clear
+  192  ls
+  193  c..
+  194  pwd
+  195  cd ..
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd ..
+  200  pwd
+  201  ls
+  202  cd iCloud\ Drive\ \(Archive\)/
+  203  ls
+  204  cd Documents/
+  205  ls
+  206  cd Marce/
+  207  ls
+  208  pwd
+  209  cd ..
+  210  ls
+  211  cd ..
+  212  cd ..
+  213  ls
+  214  cd ..
+  215  ls
+  216  clear
+  217  ls
+  218  cd marce/
+  219  ls
+  220  cd iCloud\ Drive\ \(Archive\)/
+  221  ls
+  222  cd Documents/
+  223  ls
+  224  cd Marce/
+  225  ls
+  226  clear
+  227  ls
+  228  cd Desktop/
+  229  ls
+  230  cd Digital\ House/
+  231  git init
+  232  ls -a
+  233  clear
+  234  ls
+  235  cd iCloud\ Drive\ \(Archive\)/
+  236  ls
+  237  cd Documents/
+  238  ls
+  239  cd Marce
+  240  ls
+  241  clear
+  242  ls
+  243  clear
+  244  ls
+  245  pwd
+  246  ls
+  247  git init
+  248  ls -a
+  249  rm -rf.git
+  250  git init
+  251  clear
+  252  ls
+  253  cd desktop
+  254  clear
+  255  ls
+  256  mkdir practicaplayground
+  257  ls
+  258  cd practicaplayground/
+  259  git init
+  260  git status
+  261  git add app.js
+  262  git status
+  263  clear
+  264  ls
+  265  clear
+  266  ls
+  267  cd Desktop/
+  268  ls
+  269  cd Digital\ House/
+  270  ls
+  271  cd Introduccion-a-la-informatica/
+  272  LS
+  273  CD Proyecto\ Git/
+  274  mkdir Mercado abierto
+  275  ls
+  276  clear
+  277  ls
+  278  cd Proyecto\ Git/
+  279  ls
+  280  ç
+  281  cd practicaplayground/
+  282  mkdir mercadoAbierto
+  283  ls
+  284  cd mercadoAbierto/
+  285  git init
+  286  touch producto.js
+  287  git status
+  288  git add producto.js
+  289  git status
+  290  git commit -m "mi primer commit"
+  291  git config --global --edit
+  292  git config --global --edit
+  293  git commit -m "mi primer commit"
+  294  git status
+  295  clear
+  296  clear
+  297  ls
+  298  clear
+  299  ls
+  300  cleat
+  301  clear
+  302  ls
+  303  ls
+  304  cd Desktop/
+  305  ls
+  306  cd Digital\ House/
+  307  ls
+  308  cd Introduccion-a-la-informatica/
+  309  ls
+  310  cd Proyecto\ Git/
+  311  mkdir mercadoAbierto
+  312  ls
+  313  cd mercadoAbierto/
+  314  git init
+  315  touch productos.js
+  316  git status
+  317  git add productos.js
+  318  git status
+  319  git commit -m "mi primer commit"
+  320  git status
+  321  gti clone https://github.com/LuigiSuarez/Grupo12-Practica.git
+  322  git clone https://github.com/LuigiSuarez/Grupo12-Practica.git
+  323  git pull
+  324  git pull remote origin
+  325  git pull origin remote
+  326  git pull remote origin
+  327  git pull origin main 
+  328  git branch
+  329  git checkout
+  330  git checkout feature_marce_rendon
+  331  git checkout /feature_marce_rendon
+  332  ls
+  333  cd Grupo12-Practica/
+  334  git pull origin main 
+  335  git branch
+  336  pwd
+  337  git pull
+  338  git branch feature-marcela-rendon
+  339  git swtitch branch feature-marcela-rendon
+  340  git swtich feature-marcela-rendon
+  341  git checkout feature-marcela-rendon
+  342  git status
+  343  ls
+  344  git clone https://github.com/marce-rendon/practicafrontend.git
+  345  ls
+  346  ls -a
+  347  git- v
+  348  git -v
+  349  ls
+  350  cd introducción a la informática
+  351   ls
+  352  cd Introduccion-a-la-informatica/
+  353  ls
+  354  ls
+  355  cd Practica-clase-4/
+  356  git clone https://github.com/jehansel-Digital-House-CTD/clase4-equipo4.git
+  357  ls
+  358  cd clase4-equipo4/
+  359  ls
+  360  ls
+  361  cd README.md 
+  362  git add .
+  363  git commit -m
+  364  git commit -main
+  365  git push origin main
+  366  git fetch origin
+  367  git pull origin main
+  368  ok
+  369  git push origin main
+  370  pwd
+  371  git status
+  372  git pull origin main
+  373  git remote -v
+  374  git config pull.rebase false
+  375  git config pull.rebase true
+  376  git config pull.ff only
+  377  git pull origin main
+  378  git merge --no-ff
+  379  ls
+  380  ls
+  381  git add .
+  382  git commit -m "archivos de Marcela"
+  383  git status
+  384  git push origin main
+  385  git pull origin main
+  386  git status
+  387  git add .
+  388  git commit -m "ultimo cambio por MR"
+  389  git push origin main
+  390  git pull origin main 
+  391  git pull
+  392  git pull
+  393  ls
+  394  git status
+  395  git branches
+  396  ls
+  397  cd ..
+  398  ls
+  399  git branches
+  400  git status
+  401  cd Grupo12-Practica/
+  402  ls
+  403  cd view/
+  404  ls
+  405  cd ..
+  406  git branch
+  407  git status
+  408  git pull
+  409  git branch
+  410  git checkout main
+  411  git pull
+  412  git checkout feature-marcela-rendon
+  413  git branch
+  414  git merge main
+  415  git status
+  416  git status
+  417  git add .
+  418  git status
+  419  git commit -m "agregué archivo letter.html por Marcela Rendón"
+  420  git status
+  421  git push
+  422  git push --set-upstream origin feature-marcela-rendon
+  423  git branch -a
+  424  git checkout
+  425  df
+  426  top
+  427  top
+  428  df
+  429  top
+  430  top
+  431  top
+  432  df
+  433  pwd
+  434  clear
+  435  cd
+  436  ls
+  437  cd Desktop/
+  438  ls
+  439  cd Digital\ House/
+  440  ls
+  441  cd Introduccion-a-la-informatica/
+  442  ls
+  443  cd Checkpoint-1/
+  444  git init
+  445  git addgit remote add nombre_remoto URL_del_repositorio_remoto
+  446  git remote add nombre_remoto URL_del_repositorio_remoto
+  447  git remote add origin https://github.com/marce-rendon/checkpoint-Marcela-Aug-17.git
+  448  git remote -v
+  449  touch index.html main.js
+  450  ls
+  451  git commit -m "commit 01 de MarcelaRendon"
+  452  git add .
+  453  git commit -m "commit 01 MarcelaRendon"
+  454  git branch
+  455  git branch -m main
+  456  git branch
+  457  git push -u origin main
+  458  git branch feature
+  459  git branch
+  460  git checkout feature
+  461  git branch
+  462  mkdir Hardware Software SeguridadInformatica
+  463  ls
+  464  tocuh Hardware/resumen.txt Software/resumen.txt 
+  465  touch Hardware/resumen.txt Software/resumen.txt
+  466  ls
+  467  ls -a
+  468  ls -r
+  469  git ls -files
+  470  git ls-files
+  471  cp Hardware/resumen.txt SeguridadInformatica/
+  472  git branch
+  473  git add .
+  474  git commit -m "commit 02 MarcelaRendon"
+  475  git push origin feature
+  476  git checkout main
+  477  git mv main.js resumenHardware.txt
+  478  git mv index.html resumenSoftware.txt
+  479  git touch comandos.txt
+  480  touch comandos.txt
+  481  history
